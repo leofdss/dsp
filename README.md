@@ -74,6 +74,12 @@ logging:
   level: info                # debug, info, warn, error
 ```
 
+## DEV
+
+```
+go test -cover ./...
+```
+
 ## Features (planned)
 
 - Gain
