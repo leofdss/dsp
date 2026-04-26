@@ -13,28 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "doc.md",
+                "file": "decisions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "doc"
-            }
-          }
-        ]
-      },
-      {
-        "id": "9676e394e53700f2",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "441a64ef76f69718",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "decisions"
             }
           }
         ]
@@ -201,6 +185,12 @@
   },
   "active": "b75c5f2afab58da2",
   "lastOpenFiles": [
+    "architecture.md",
+    "decisions.md",
+    "dsp.md",
+    "pipewire.md",
+    "testing.md",
+    "TODO.md",
     "doc.md"
   ]
 }
