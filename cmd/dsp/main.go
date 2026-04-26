@@ -21,7 +21,7 @@ func main() {
 
 func run(ctx context.Context, args []string) error {
 	if len(args) != 1 {
-		return errors.New("usage: dsp <config.json>")
+		return errors.New("usage: dsp <config.{json,yaml,yml}>")
 	}
 
 	loader := file.ConfigLoader{}
